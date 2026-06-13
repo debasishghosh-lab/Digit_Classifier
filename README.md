@@ -17,3 +17,8 @@ A deep learning image classification project built using MobileNetV2 Transfer Le
 - Dense Layer (128)
 - Dropout (0.3)
 - Softmax Output Layer
+
+
+### live : https://digitclassifier-iym9yf34aijdcwx7onpjf8.streamlit.app/
+
+Author-Debasish Ghosh
